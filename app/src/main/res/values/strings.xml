@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VucutKitleEndeksi</string>
+    <string name="vucut_kitle_endeksiniz">Vucut kitle endeksiniz: %1$f</string>
+</resources>
